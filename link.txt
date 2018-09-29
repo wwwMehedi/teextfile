@@ -1,0 +1,18 @@
+1.https://www.youtube.com/watch?v=S5RlUgUecoM&index=3&list=PLxabZQCAe5fgLqi5im08UYz7R5nfBQYBs
+2.https://www.youtube.com/watch?v=IC-L3FdeANI&list=PLvPqrYVmSBHeXNaVCNwjAfGAYugW763v8&index=3
+(it is wonderful alaerm clock app tutorial)
+3.android bog,,,,,,,,,,, https://deepshikhapuri.wordpress.com/2016/11/25/service-in-android/
+4..awesome android tutorial...https://www.youtube.com/channel/UC_Fh8kvtkVPkeihBs42jGcA/playlists
+5.https://openweathermap.org/forecast5#min(weather Api)
+6.https://www.youtube.com/user/eddydn71/playlists(photo editor app);
+7.https://www.youtube.com/watch?v=ZEmBADxEv0g(firebase 2018)
+8.https://www.youtube.com/channel/UCZ00VgbuL3218mXA0_drptg/playlists(Retrofit and shopping cart)
+7.(https://samples.openweathermap.org/data/2.5/forecast?lat=35&lon=139&appid=b6907d289e10d714a6e88b30761fae22)wether api
+8https://touhidapps.com/api/demo/jsondemoapi.php?option=2
+9.https://www.youtube.com/watch?v=dth3aq_QPzU&index=2&list=PLjqE7HItx3Vni-zVZf-HI-0p0gJVRMdn4(firebase newspapp and connection)
+10.https://www.youtube.com/watch?v=LVBmfurpH5U(android github project upload)
+11.https://www.youtube.com/watch?v=Y1QYwypbetM(php crued)
+12.https://www.youtube.com/user/TICOONTECHNOLOGIES/playlists(retrofit)
+13.https://www.youtube.com/watch?v=-hYOgfiEp6k&list=PLbC4KRSNcMnr9Aj9mvZOWMZ0pbfWLVtRC(bangla rest APi)
+14.https://www.youtube.com/watch?v=AIHs0lsbuls(phpmyadmin insert direct image with blob).
+15.https://www.youtube.com/watch?v=Mp1FoyccQx0(domain hosting)
